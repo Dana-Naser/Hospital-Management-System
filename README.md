@@ -1,4 +1,6 @@
 # 🏥 Hospital Management System
+<img src="hospital.png" alt="Hospital" width="500"/>
+
 
 **Hospital Management System** is a Java-based desktop application designed to help manage hospital operations such as handling patient data, saving and loading system state, and providing a user-friendly interface for medical staff.  
 This project was developed as part of an **Object-Oriented Programming (OOP)** course.
